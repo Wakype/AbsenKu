@@ -1,0 +1,31 @@
+{
+    "status": 200,
+    "message": "Successfully",
+    "data": [
+      {
+        "nisn": "111111",
+        "password": "guru1",
+        "role": "Guru",
+        "nama": "Fathan Al - Farazi"
+      },
+      {
+        "nisn": "222222",
+        "password": "guru2",
+        "role": "Guru",
+        "nama": "Lars Alfarabi"
+      },
+      {
+        "nisn": "333333",
+        "password": "murid1",
+        "role": "Pelajar",
+        "nama": "Muhammad Hilmi"
+      },
+      {
+        "nisn": "444444",
+        "password": "murid2",
+        "role": "Pelajar",
+        "nama": "Naufal Abyan"
+      }
+    ]
+  }
+  

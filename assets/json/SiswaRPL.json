@@ -1,0 +1,145 @@
+{
+    "status": 200,
+    "message": "Successfully",
+    "data": [
+      {
+        "hari": "senin",
+        "dataHari": {
+          "kelas": "XI - RPL",
+          "dataKelas": [
+            {
+              "pelajaran": "Matematika",
+              "waktu": "08:00 - 09:30",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Inggris",
+              "waktu": "09:30 - 11:00",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Indonesia",
+              "waktu": "13:00 - 15:00",
+              "kelas": "XI - RPL"
+            }
+          ]
+        }
+      },
+      {
+        "hari": "selasa",
+        "dataHari": {
+          "kelas": "XI - RPL",
+          "dataKelas": [
+            {
+              "pelajaran": "Bahasa Inggris",
+              "waktu": "08:00 - 09:30",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Matematika",
+              "waktu": "09:30 - 11:00",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Indonesia",
+              "waktu": "13:00 - 15:00",
+              "kelas": "XI - RPL"
+            }
+          ]
+        }
+      },
+      {
+        "hari": "rabu",
+        "dataHari": {
+          "kelas": "XI - RPL",
+          "dataKelas": [
+            {
+              "pelajaran": "Bahasa Indonesia",
+              "waktu": "08:00 - 09:30",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Inggris",
+              "waktu": "09:30 - 11:00",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Matematika",
+              "waktu": "13:00 - 15:00",
+              "kelas": "XI - RPL"
+            }
+          ]
+        }
+      },
+      {
+        "hari": "kamis",
+        "dataHari": {
+          "kelas": "XI - RPL",
+          "dataKelas": [
+            {
+              "pelajaran": "Matematika",
+              "waktu": "08:00 - 09:30",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Indonesia",
+              "waktu": "09:30 - 11:00",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Inggris",
+              "waktu": "13:00 - 15:00",
+              "kelas": "XI - RPL"
+            }
+          ]
+        }
+      },
+      {
+        "hari": "jumat",
+        "dataHari": {
+          "kelas": "XI - RPL",
+          "dataKelas": [
+            {
+              "pelajaran": "Bahasa Inggris",
+              "waktu": "08:00 - 09:30",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Matematika",
+              "waktu": "09:30 - 11:00",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Indonesia",
+              "waktu": "13:00 - 15:00",
+              "kelas": "XI - RPL"
+            }
+          ]
+        }
+      },
+      {
+        "hari": "sabtu",
+        "dataHari": {
+          "kelas": "XI - RPL",
+          "dataKelas": [
+            {
+              "pelajaran": "Matematika",
+              "waktu": "08:00 - 09:30",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Indonesia",
+              "waktu": "09:30 - 11:00",
+              "kelas": "XI - RPL"
+            },
+            {
+              "pelajaran": "Bahasa Inggris",
+              "waktu": "13:00 - 15:00",
+              "kelas": "XI - RPL"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,258 @@
+{
+  "status": 200,
+  "message": "Successfully",
+  "data": [
+    {
+      "namaGuru": "Fathan",
+      "hari": "senin",
+      "dataHari": [
+        {
+          "pelajaran": "Matematika",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - TKJ"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Fathan",
+      "hari": "selasa",
+      "dataHari": [
+        {
+          "pelajaran": "Matematika",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Fathan",
+      "hari": "rabu",
+      "dataHari": [
+        {
+          "pelajaran": "Matematika",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XII - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Fathan",
+      "hari": "kamis",
+      "dataHari": [
+        {
+          "pelajaran": "Matematika",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - TKJ"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Fathan",
+      "hari": "jumat",
+      "dataHari": [
+        {
+          "pelajaran": "Matematika",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Fathan",
+      "hari": "sabtu",
+      "dataHari": [
+        {
+          "pelajaran": "Matematika",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Matematika",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XII - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Lars Abi",
+      "hari": "senin",
+      "dataHari": [
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Lars Abi",
+      "hari": "selasa",
+      "dataHari": [
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XII - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Lars Abi",
+      "hari": "rabu",
+      "dataHari": [
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - TKJ"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Lars Abi",
+      "hari": "kamis",
+      "dataHari": [
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Lars Abi",
+      "hari": "jumat",
+      "dataHari": [
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - TKJ"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XII - RPL"
+        }
+      ]
+    },
+    {
+      "namaGuru": "Lars Abi",
+      "hari": "sabtu",
+      "dataHari": [
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "08:00 - 09:30",
+          "kelas": "XI - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "09:30 - 11:00",
+          "kelas": "XII - RPL"
+        },
+        {
+          "pelajaran": "Bahasa Inggris",
+          "waktu": "13:00 - 15:00",
+          "kelas": "XI - TKJ"
+        }
+      ]
+    }
+  ]
+}

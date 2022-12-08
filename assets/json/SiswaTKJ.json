@@ -1,0 +1,144 @@
+{
+  "status": 200,
+  "message": "Successfully",
+  "data": [
+    {
+      "hari": "senin",
+      "dataHari": {
+        "kelas": "XI - TKJ",
+        "dataKelas": [
+          {
+            "pelajaran": "Bahasa Inggris",
+            "waktu": "08:00 - 09:30",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Indonesia",
+            "waktu": "09:30 - 11:00",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Matematika",
+            "waktu": "13:00 - 15:00",
+            "kelas": "XI - TKJ"
+          }
+        ]
+      }
+    },
+    {
+      "hari": "selasa",
+      "dataHari": {
+        "kelas": "XI - TKJ",
+        "dataKelas": [
+          {
+            "pelajaran": "Matematika",
+            "waktu": "08:00 - 09:30",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Inggris",
+            "waktu": "09:30 - 11:00",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Indonesia",
+            "waktu": "13:00 - 15:00",
+            "kelas": "XI - TKJ"
+          }
+        ]
+      }
+    },
+    {
+      "hari": "rabu",
+      "dataHari": {
+        "kelas": "XI - TKJ",
+        "dataKelas": [
+          {
+            "pelajaran": "Bahasa Inggris",
+            "waktu": "08:00 - 09:30",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Indonesia",
+            "waktu": "09:30 - 11:00",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Matematika",
+            "waktu": "13:00 - 15:00",
+            "kelas": "XI - TKJ"
+          }
+        ]
+      }
+    },
+    {
+      "hari": "kamis",
+      "dataHari": {
+        "kelas": "XI - TKJ",
+        "dataKelas": [
+          {
+            "pelajaran": "Bahasa Indonesia",
+            "waktu": "08:00 - 09:30",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Matematika",
+            "waktu": "09:30 - 11:00",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Inggris",
+            "waktu": "13:00 - 15:00",
+            "kelas": "XI - TKJ"
+          }
+        ]
+      }
+    },
+    {
+      "hari": "jumat",
+      "dataHari": {
+        "kelas": "XI - TKJ",
+        "dataKelas": [
+          {
+            "pelajaran": "Matematika",
+            "waktu": "08:00 - 09:30",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Inggris",
+            "waktu": "09:30 - 11:00",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Indonesia",
+            "waktu": "13:00 - 15:00",
+            "kelas": "XI - TKJ"
+          }
+        ]
+      }
+    },
+    {
+      "hari": "sabtu",
+      "dataHari": {
+        "kelas": "XI - TKJ",
+        "dataKelas": [
+          {
+            "pelajaran": "Bahasa Indonesia",
+            "waktu": "08:00 - 09:30",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Matematika",
+            "waktu": "09:30 - 11:00",
+            "kelas": "XI - TKJ"
+          },
+          {
+            "pelajaran": "Bahasa Inggris",
+            "waktu": "13:00 - 15:00",
+            "kelas": "XI - TKJ"
+          }
+        ]
+      }
+    }
+  ]
+}
